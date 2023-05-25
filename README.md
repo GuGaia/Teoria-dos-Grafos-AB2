@@ -11,7 +11,7 @@ Como não consegui resolver esse problema dentro dos algoritmos, adicionei 2 lin
 
 Código abaixo adicionado no teste de Kruskal e de Prim:
 
-## if ! [[ $val =~ ^[0-9]+$ ]];
+	if ! [[ $val =~ ^[0-9]+$ ]];
 		val=$(printf "%.0f" "$val")
 	fi
 

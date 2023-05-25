@@ -1,0 +1,14 @@
+Caminho de 2 até 1
+2 to 4
+4 to 1
+Caminho de 2 até 3
+2 to 4
+4 to 1
+1 to 3
+Caminho de 2 até 4
+2 to 4
+Caminho de 2 até 5
+2 to 5
+Caminho de 2 até 6
+2 to 4
+4 to 6
